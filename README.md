@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leo's most used languages](https://metrics.lecoq.io/leikun-starting?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+</br>
+<a href="https://github.com/leikun-starting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leikun-starting" />
+</a>
+<a href="https://github.com/leikun-starting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leikun-starting&langs_count=3" />
