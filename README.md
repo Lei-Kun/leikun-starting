@@ -8,4 +8,4 @@ Hi! I'm Lei Kun ~
 - 👯 I’m looking for a Ph.D. position in the research field of RL or CO. 
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leikun-starting&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leikun-starting&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+%[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leikun-starting&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
