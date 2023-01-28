@@ -7,7 +7,7 @@ Hi! I'm Lei Kun ~
 - 🌱 I’m currently interested in the reinforcement learning theroy like offline RL, and it's applications on CO.
 - 👯 I’m looking for a Ph.D. position in the research field of RL or CO. 
 
-<b>[CV](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fleikun-starting%2FMy_CV%2Fmain%2FCV_LEI_Kun.pdf)</b>
+<b>[CV](https://github.com/leikun-starting/My_CV/blob/main/CV_LEI_Kun.pdf)</b>
 
 <b>[Google Scholar](https://scholar.google.com/citations?user=GfUvUacAAAAJ&hl=zh-CN)</b>
 
