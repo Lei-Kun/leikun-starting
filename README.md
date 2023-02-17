@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi! It's Lei Kun ~ 
+Hi! This is Lei Kun ~ 
 
 - 🔭 I got my master's degree from southwest jiao-tong university and focused on combinatorial optimization (CO) and reinforcement learning (RL).
 - 🌱 I’m currently interested in the reinforcement learning theroy like offline RL, and it's applications on CO.
